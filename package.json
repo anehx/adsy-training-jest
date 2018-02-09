@@ -1,0 +1,13 @@
+{
+  "name": "adsy-training-jest",
+  "version": "0.0.0",
+  "description": "Adfinis SyGroup apprentice training for Jest tests",
+  "author": "Jonas Metzener <jonas.metzener@adfinis-sygroup.ch>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --notify --watchAll --coverage"
+  },
+  "devDependencies": {
+    "jest": "^22.2.1"
+  }
+}
